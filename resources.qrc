@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>build/earth.png</file>
+        <file>build/image.png</file>
+        <file>shaders/fshader.glsl</file>
+        <file>shaders/vshader.glsl</file>
+    </qresource>
+</RCC>
